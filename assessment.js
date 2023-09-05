@@ -31,7 +31,7 @@ function listNFTs () {
       let nft = NFTs[i];
       console.log("Name: " + nft.name);
       console.log("Icon: " + nft.eye_color);
-      console.log("shirt_type" + nft.shirt_type);
+      console.log("shirt_type:" + nft.shirt_type);
       console.log("Description: " + nft.description);
    
    }
